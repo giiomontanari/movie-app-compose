@@ -27,7 +27,7 @@ https://github.com/giiomontanari/movie-app-compose.git
 Dentro do diretório do projeto, crie um arquivo chamado apiKey.properties (caso não exista)
 na raiz do projeto.
 
-Adicione a seguinte linha ao arquivo:
+Adicione as seguintes linhas ao arquivo:
 
 `API_KEY = "COLOQUE_SUA_API_AQUI"
 BASE_URL = "https://api.themoviedb.org/3/"
